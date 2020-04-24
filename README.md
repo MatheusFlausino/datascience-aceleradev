@@ -23,6 +23,12 @@ A estrutura de arquivos está da seguinte maneira:
 ```bash
 datascience-aceleradev
 ├── .gitignore
+├── coestatistica-1
+│   ├── coestatistica-1.ipynb
+│   ├── desafio1.csv
+│   ├── README.md
+│   ├── requirements.txt
+│   └── submission.json
 ├── data-science-0
 │   ├── black_friday.csv
 │   ├── main.ipynb
